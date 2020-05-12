@@ -5,3 +5,4 @@ if board[index] == " " || board[index] == "" || board[index] == nil
 else 
   return TRUE
 end
+end
